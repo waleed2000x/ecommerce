@@ -502,7 +502,7 @@ const Undergarments = [
     productType: "undergarment",
     type: "Hipster",
     image:
-      "https://cdn.platform.next/COMMON/Items/Default/Default/ItemImages/AltItemShot/P74620.jpg",
+      "ht/tps://cdn.platform.next/COMMON/Items/Default/Default/ItemImages/AltItemShot/P74620.jpg",
   },
   {
     id: 3,
@@ -528,7 +528,7 @@ const Undergarments = [
     productType: "undergarment",
     type: "Bikini",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVHlbP4wN_DDu9LK_uUGRc3Xu7EafvOCWbw&usqp=CAU",
+      "ht/tps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVHlbP4wN_DDu9LK_uUGRc3Xu7EafvOCWbw&usqp=CAU",
   },
   {
     id: 5,
@@ -541,7 +541,7 @@ const Undergarments = [
     productType: "undergarment",
     type: "Thong",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSioCZVSHjO1pNYiB8TpN6jEibPSfI8j8H2YA&usqp=CAU",
+      "ht/tps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSioCZVSHjO1pNYiB8TpN6jEibPSfI8j8H2YA&usqp=CAU",
   },
   {
     id: 6,
@@ -606,7 +606,7 @@ const Undergarments = [
     productType: "undergarment",
     type: "Bikini",
     image:
-      "https://media.nuuly.com/3aa60dcb-abc1-48d2-bae9-25cb8abbddd6.HEIC?$og-image$",
+      "ht/tps://media.nuuly.com/3aa60dcb-abc1-48d2-bae9-25cb8abbddd6.HEIC?$og-image$",
   },
   {
     id: 11,
@@ -619,7 +619,7 @@ const Undergarments = [
     productType: "undergarment",
     type: "Hipster",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwkt8lSGlOdyXEid5iwVW2g1LO1oGPcYXdA&usqp=CAU",
+      "ht/tps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwkt8lSGlOdyXEid5iwVW2g1LO1oGPcYXdA&usqp=CAU",
   },
 ];
 const Formalshirts = [

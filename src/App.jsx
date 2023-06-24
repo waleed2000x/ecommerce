@@ -14,7 +14,6 @@ import Contact from "./body/Pages/Contact/Contact";
 import Products from "./body/Pages/Products/Products";
 import { ThemeContext, themes } from "./context/ThemeContext";
 import Clothing from "./body/Pages/Products/Clothing";
-
 export default function App() {
   const [theme, setTheme] = useState(themes.light);
 

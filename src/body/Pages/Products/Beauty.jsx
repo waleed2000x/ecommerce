@@ -101,7 +101,6 @@ const RadioGroup = styled.div`
   }
   p {
     margin-left: 5px;
-    /* font-family: "Instrument Serif", serif; */
     margin-bottom: 0;
     vertical-align: middle;
   }

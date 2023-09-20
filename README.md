@@ -1,4 +1,4 @@
-# ecommerce
+# Vibe Vault eCommerce
  This code contains a React Router with nested routes and "outlet".
  Styled components for a sorted and readable code with less code-reading complexity.
  Formik is also used for form | form error handling.

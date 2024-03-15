@@ -15,4 +15,3 @@ This project is my first ever, featuring a React Router with nested routes and "
 This project also implements a REST API for seamless data management and retrieval.
 
 Feel free to explore the codebase and suggest improvements!
-
